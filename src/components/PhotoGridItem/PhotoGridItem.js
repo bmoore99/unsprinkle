@@ -51,9 +51,6 @@ const Image = styled.img`
 `;
 
 const Tags = styled.ul`
-  /* display: flex;
-  flex-wrap: wrap;
-  gap: 8px; */
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
